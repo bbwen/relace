@@ -1,0 +1,8 @@
+# Ignore all data files
+recom/data/
+*.zip
+*.tar
+*.h5
+*.ckpt
+*.weights
+*.bin
